@@ -1,0 +1,61 @@
+---
+name: Nathan Lally
+position: "Sr. Machine Learning Modeler"
+address: "21 Temple Street Unit 506, Hartford, CT 06103"
+phone: (860)287-3415
+email: "nathan.lally@gmail.com"
+github: nathan-lally
+linkedin: nathan-lally-stats
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+
+ * __MS Mathematics__, University of Connecticut, 2015
+     * Thesis: [The Informative g-Prior vs. Common Reference Priors for Binomial Regression With an Application to Hurricane Electrical Utility Asset Damage Prediction](https://opencommons.uconn.edu/gs_theses/813/)
+     * Awards: Google Student Poster Award (In honor of the best posters presented in the fields of Statistics and Probability at the 29th New England Statistical Symposium)
+ * __BA Mathematics/Statistics__, University of Connecticut, 2014
+     * Cum Laude
+ * __BA Political Science__, University of Connecticut, 2007
+
+# Experience
+
+ * __Sr. Machine Learning Modeler__, Hartford Steam Boiler (Munich Re), February 2018 - Present
+    * Develop core pricing models and methods
+    * IoT insurance product development
+    * Manage interns and mentor junior data science talent
+    * Coordinate and deliver data science education at HSB and Munich Re America
+ * __Engineering Statistician__, Pratt & Whitney (UTC), April 2016 - February 2018
+     * Perform engineering analysis with statistical/probabilistic models and provide predictive modeling and optimization support to P&W Aftermarket and Finance departments
+     * Coordinate R&D projects between P&W and UConn Statistics and Engineering
+     * Coordinate statistical short courses and seminars given to P&W employees from university faculty
+ * __Adjunct Professor of Biostatistics__, University of Connecticut, January 2017 - May 2017
+     * Taught "Introduction to Biostatistics for Health Professionals" to a class of approximately 100 undergraduate and graduate students in statistics, mathematics, and allied health sciences.
+ * __Associate Data Scientist__, The Hartford Insurance Group, May 2015 - March 2016
+     * Led efforts to build new customer retention, issue rate, and customer lifetime value models
+ * __Actuarial & Data Science Internships__, The Hartford Insurance Group, May 2014 - August 2014, December 2014 - January 2015
+     * Completed two internships in both actuarial(risk and profitability) and data science (personal lines auto) positions
+
+# Languages & Tech
+
+ * __Languages__
+    * R, Stan, Scala, Python, SQL
+ * __Tech__
+    * Linux, Git, Spark, \LaTeX, Markdown, Azure Services
+
+# Publications
+
+  * __[Estimating Loss Reserves Using Hierarchical Bayesian Gaussian Process Regression with Input Warping](https://www.sciencedirect.com/science/article/pii/S0167668717304523)__, Insurance: Mathematics and Economics, 2018 ([Preprint](https://hartman.byu.edu/files/LallyHartman_GPReserving.pdf))
+  * __[Predictive Modeling in Long-Term Care Insurance](https://www.tandfonline.com/eprint/7W2dZajRvYGmTIk4t5bT/full)__, North American Actuarial Journal, 2016 (Undergraduate thesis)
+  
+# Volunteering & Outreach
+
+ * __Council Member__, New England Statistical Society (NESS), May 2017-Present
+     * Serve on the education committee coordinating the society’s educational activities and outreach
+     * Speak with high school students and their teachers about careers in data science and statistics
