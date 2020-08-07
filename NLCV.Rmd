@@ -20,18 +20,20 @@ library(vitae)
 __Data Science & Statistics__
 
  * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - Present
-    * Manage interns and lead junior data science talent on technical projects
+    * Lead junior data science talent on technical projects and manage interns
     * Develop core pricing models and methods (Transactional EB, EPL, BII HSP/SL)
-    * IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
+    * Perform IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
     * Established an ongoing research agreement between HSB and UConn's departments of Statistics and Computer Science focusing on IoT anomaly detection methods
     * Coordinate and deliver data science education at HSB (time series short courses)
     * Represent HSB and Munich Re Group by presenting at academic and internal analytics conferences
  * __Engineering Statistician, Pratt & Whitney (UTC)__, April 2016 - February 2018
      * Performed engineering analysis with statistical/probabilistic models and provided predictive modeling and optimization support to P&W Aftermarket and Finance departments
  * __Adjunct Professor of Biostatistics, University of Connecticut__, January 2017 - May 2017
-     * Taught "Introduction to Biostatistics for Health Professionals" to a class of approximately 100 undergraduate and graduate students in statistics, mathematics, and allied health sciences
+     * Taught "Introduction to Biostatistics for Health Professionals (AH 3005/5005)" to a class of approximately 100 undergraduate and graduate students in statistics, mathematics, and allied health sciences
  * __Associate Data Scientist, The Hartford Insurance Group__, May 2015 - March 2016
      * Led efforts to build customer retention, issue rate, and customer lifetime value models
+ * __Graduate Assistant, University of Connecticut__, August 2014 - May 2015
+     * Fully funded GA researching statistical/machine learning methods to predict 
  * __Actuarial & Data Science Internships, The Hartford Insurance Group__, May 2014 - August 2014, December 2014 - January 2015
      * Completed two internships in both actuarial (risk and profitability) and data science (personal lines auto) positions
      
@@ -51,17 +53,16 @@ __Defense Contracting__
      
 # Volunteering & Outreach
 
- * __[Vice President__, New England Statistical Society (NESS)](https://nestat.org/about/structure/)__, June 2020-Present
+ * __[Vice President, New England Statistical Society (NESS)](https://nestat.org/about/structure/)__, June 2020-Present
      * Vice President in charge of the NESS Education Committee
      * Reorganized the committee into four subcommittees focusing on short course development, youth outreach, scholarship funds and ethics in data science education
      * Partnered with the NextGen Committee to establish NESS' new consulting service
  * __Council Member, New England Statistical Society (NESS)__, May 2017-June 2020
      * Served on the education committee coordinating the society’s educational activities and outreach
-     * Spoke with high school students and their teachers about careers in data science and statistics
 
-# Languages & Tech
+# Technology
 
- * __Languages__
+ * __Programming Languages__
     * R, Stan, Scala, Python, SQL
  * __Tech__
     * Linux, Git, Spark, \LaTeX, Markdown, Azure Services
@@ -69,6 +70,10 @@ __Defense Contracting__
 # Publications
 
   * __[Modern Methods for Insurance IBNR Reserve Estimation](https://blogisbis.wordpress.com/2019/06/26/modern-methods-for-insurance-ibnr-reserve-estimation/)__, International Society for Business and Industrial Statistics (ISBIS) Blog Corner, 2019
-  * __[Estimating Loss Reserves Using Hierarchical Bayesian Gaussian Process Regression with Input Warping](https://www.sciencedirect.com/science/article/pii/S0167668717304523)__, Insurance: Mathematics and Economics, 2018 ([Link to Preprint Version](https://hartman.byu.edu/files/LallyHartman_GPReserving.pdf))
+  * __[Estimating Loss Reserves Using Hierarchical Bayesian Gaussian Process Regression with Input Warping](https://www.sciencedirect.com/science/article/pii/S0167668717304523)__, Insurance: Mathematics and Economics, 2018 ([link to pre-print version](https://hartman.byu.edu/files/LallyHartman_GPReserving.pdf))
   * __[Predictive Modeling in Long-Term Care Insurance](https://www.tandfonline.com/eprint/7W2dZajRvYGmTIk4t5bT/full)__, North American Actuarial Journal, 2016 (Undergraduate thesis)
   
+# Languages
+
+  * English
+  * Spanish (professional working proficiency)
