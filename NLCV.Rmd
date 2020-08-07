@@ -1,11 +1,10 @@
 ---
 name: Nathan Lally
 position: "Sr. Machine Learning Modeler"
-address: "21 Temple Street Unit 506, Hartford, CT 06103"
+address: "281 Gilead Road, Andover, CT 06232"
 phone: (860)287-3415
 email: "nathan.lally@gmail.com"
 github: nathan-lally
-linkedin: nathan-lally-stats
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 ---
@@ -15,32 +14,50 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-# Education
-
- * __MS Mathematics__, University of Connecticut, 2015
-     * Thesis: [The Informative g-Prior vs. Common Reference Priors for Binomial Regression With an Application to Hurricane Electrical Utility Asset Damage Prediction](https://opencommons.uconn.edu/gs_theses/813/)
-     * Awards: Google Student Poster Award (In honor of the best posters presented in the fields of Statistics and Probability at the 29th New England Statistical Symposium)
- * __BA Mathematics/Statistics__, University of Connecticut, 2014
-     * Cum Laude
- * __BA Political Science__, University of Connecticut, 2007
 
 # Experience
 
- * __Sr. Machine Learning Modeler__, Hartford Steam Boiler (Munich Re), February 2018 - Present
-    * Develop core pricing models and methods
-    * IoT insurance product development
-    * Manage interns and mentor junior data science talent
-    * Coordinate and deliver data science education at HSB and Munich Re America
- * __Engineering Statistician__, Pratt & Whitney (UTC), April 2016 - February 2018
-     * Perform engineering analysis with statistical/probabilistic models and provide predictive modeling and optimization support to P&W Aftermarket and Finance departments
-     * Coordinate R&D projects between P&W and UConn Statistics and Engineering
-     * Coordinate statistical short courses and seminars given to P&W employees from university faculty
- * __Adjunct Professor of Biostatistics__, University of Connecticut, January 2017 - May 2017
-     * Taught "Introduction to Biostatistics for Health Professionals" to a class of approximately 100 undergraduate and graduate students in statistics, mathematics, and allied health sciences.
- * __Associate Data Scientist__, The Hartford Insurance Group, May 2015 - March 2016
-     * Led efforts to build new customer retention, issue rate, and customer lifetime value models
- * __Actuarial & Data Science Internships__, The Hartford Insurance Group, May 2014 - August 2014, December 2014 - January 2015
-     * Completed two internships in both actuarial(risk and profitability) and data science (personal lines auto) positions
+__Data Science & Statistics__
+
+ * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - Present
+    * Manage interns and lead junior data science talent on technical projects
+    * Develop core pricing models and methods (Transactional EB, EPL, BII HSP/SL)
+    * IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
+    * Established an ongoing research agreement between HSB and UConn's departments of Statistics and Computer Science focusing on IoT anomaly detection methods
+    * Coordinate and deliver data science education at HSB (time series short courses)
+    * Represent HSB and Munich Re Group by presenting at academic and internal analytics conferences
+ * __Engineering Statistician, Pratt & Whitney (UTC)__, April 2016 - February 2018
+     * Performed engineering analysis with statistical/probabilistic models and provided predictive modeling and optimization support to P&W Aftermarket and Finance departments
+ * __Adjunct Professor of Biostatistics, University of Connecticut__, January 2017 - May 2017
+     * Taught "Introduction to Biostatistics for Health Professionals" to a class of approximately 100 undergraduate and graduate students in statistics, mathematics, and allied health sciences
+ * __Associate Data Scientist, The Hartford Insurance Group__, May 2015 - March 2016
+     * Led efforts to build customer retention, issue rate, and customer lifetime value models
+ * __Actuarial & Data Science Internships, The Hartford Insurance Group__, May 2014 - August 2014, December 2014 - January 2015
+     * Completed two internships in both actuarial (risk and profitability) and data science (personal lines auto) positions
+     
+__Defense Contracting__
+
+ * __Various Roles, General Dynamics Electric Boat__, 2008 - 2011
+     * Worked in piping design, program planning and process engineering
+     * Certified Lean Six Sigma Black Belt
+     
+# Education
+
+ * __MS Mathematics, University of Connecticut__, 2015
+     * Thesis: [The Informative g-Prior vs. Common Reference Priors for Binomial Regression With an Application to Hurricane Electrical Utility Asset Damage Prediction](https://opencommons.uconn.edu/gs_theses/813/)
+     * Awards: Google Student Poster Award (In honor of the best posters presented in the fields of Statistics and Probability at the 29th New England Statistical Symposium)
+ * __BA Mathematics/Statistics, University of Connecticut__, 2014
+ * __BA Political Science, University of Connecticut__, 2007
+     
+# Volunteering & Outreach
+
+ * __[Vice President__, New England Statistical Society (NESS)](https://nestat.org/about/structure/)__, June 2020-Present
+     * Vice President in charge of the NESS Education Committee
+     * Reorganized the committee into four subcommittees focusing on short course development, youth outreach, scholarship funds and ethics in data science education
+     * Partnered with the NextGen Committee to establish NESS' new consulting service
+ * __Council Member, New England Statistical Society (NESS)__, May 2017-June 2020
+     * Served on the education committee coordinating the society’s educational activities and outreach
+     * Spoke with high school students and their teachers about careers in data science and statistics
 
 # Languages & Tech
 
@@ -51,11 +68,7 @@ library(vitae)
 
 # Publications
 
-  * __[Estimating Loss Reserves Using Hierarchical Bayesian Gaussian Process Regression with Input Warping](https://www.sciencedirect.com/science/article/pii/S0167668717304523)__, Insurance: Mathematics and Economics, 2018 ([Preprint](https://hartman.byu.edu/files/LallyHartman_GPReserving.pdf))
+  * __[Modern Methods for Insurance IBNR Reserve Estimation](https://blogisbis.wordpress.com/2019/06/26/modern-methods-for-insurance-ibnr-reserve-estimation/)__, International Society for Business and Industrial Statistics (ISBIS) Blog Corner, 2019
+  * __[Estimating Loss Reserves Using Hierarchical Bayesian Gaussian Process Regression with Input Warping](https://www.sciencedirect.com/science/article/pii/S0167668717304523)__, Insurance: Mathematics and Economics, 2018 ([Link to Preprint Version](https://hartman.byu.edu/files/LallyHartman_GPReserving.pdf))
   * __[Predictive Modeling in Long-Term Care Insurance](https://www.tandfonline.com/eprint/7W2dZajRvYGmTIk4t5bT/full)__, North American Actuarial Journal, 2016 (Undergraduate thesis)
   
-# Volunteering & Outreach
-
- * __Council Member__, New England Statistical Society (NESS), May 2017-Present
-     * Serve on the education committee coordinating the society’s educational activities and outreach
-     * Speak with high school students and their teachers about careers in data science and statistics
