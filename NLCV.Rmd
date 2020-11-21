@@ -1,9 +1,9 @@
 ---
 name: Nathan Lally
-position: "Sr. Machine Learning Modeler"
-address: "281 Gilead Road, Andover, CT 06232"
+position: "AVP: Data Science & Business Analytics"
+address: "34 Liberty Dr Mansfield Center, CT 06250"
 phone: (860)287-3415
-email: "nathan.lally@gmail.com"
+email: "nathan.lally@hey.com"
 github: nathan-lally
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
@@ -19,7 +19,9 @@ library(vitae)
 
 __Data Science & Statistics__
 
- * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - Present
+ * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, November 2020 - Present
+    * Lead a team of data scientists and software engineers on projects ranging from pricing, IoT sensor analytics, claims analytics, financial forecasting and more. Our team serves as a data science center of excellence for HSB.
+ * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - November 2020
     * Lead junior data science talent on technical projects and manage interns
     * Develop core pricing models and methods (Transactional EB, EPL, BII HSP/SL)
     * Perform IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
@@ -63,9 +65,9 @@ __Defense Contracting__
 # Technology
 
  * __Programming Languages__
-    * R, Stan, Scala, Python, SQL
+    * R, Stan, Python, SQL, Scala
  * __Tech__
-    * Linux, Git, Spark, \LaTeX, Markdown, Azure Services
+    * Linux, Git, \LaTeX, Markdown, Microsoft Azure Cloud Services
 
 # Publications
 
