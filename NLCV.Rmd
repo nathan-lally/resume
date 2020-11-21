@@ -19,7 +19,7 @@ library(vitae)
 
 __Data Science & Statistics__
 
- * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, November 2020 - Present
+ * __AVP Data Science and Business Analytics, HSB (Munich Re Group)__, November 2020 - Present
     * Lead a team of data scientists and software engineers on projects ranging from pricing, IoT sensor analytics, claims analytics, financial forecasting and more. Our team serves as a data science center of excellence for HSB.
  * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - November 2020
     * Lead junior data science talent on technical projects and manage interns
