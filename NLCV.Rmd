@@ -1,7 +1,7 @@
 ---
 name: Nathan Lally
-position: "AVP: Data Science & Business Analytics"
-address: "34 Liberty Dr Mansfield Center, CT 06250"
+position: "AVP: Data Science"
+address: "281 Gilead Rd, Andover, CT 06250"
 phone: (860)287-3415
 email: "nathan.lally@hey.com"
 github: nathan-lally
@@ -11,6 +11,7 @@ output: vitae::awesomecv
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+options(tinytex.verbose = TRUE)
 library(vitae)
 ```
 
@@ -19,15 +20,17 @@ library(vitae)
 
 __Data Science & Statistics__
 
- * __AVP Data Science and Business Analytics, HSB (Munich Re Group)__, November 2020 - Present
-    * Lead a team of data scientists and software engineers on projects ranging from pricing, IoT sensor analytics, claims analytics, financial forecasting and more. Our team serves as a data science center of excellence for HSB.
+ * __AVP Data Science, HSB (Munich Re Group)__, November 2020 - Present
+    * Lead a team of data scientists on projects ranging from IoT sensor analytics, claims analytics, financial forecasting, pricing and more
+    * Work with business partners in various organizations to develop and deliver client-facing analytics products and services
+    * Leading efforts to modernize HSB's data science technology stack, MLOps practices and model deployment
+    * Established an ongoing research agreement between HSB and The University of Connecticut's departments of Statistics and Computer Science focusing on IoT analytics
+        * This team deployed HSB's first large scale machine learning system for IoT in production; measuring customer responses to alerting systems using causal ML
  * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - November 2020
-    * Lead junior data science talent on technical projects and manage interns
-    * Develop core pricing models and methods (Transactional EB, EPL, BII HSP/SL)
-    * Perform IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
-    * Established an ongoing research agreement between HSB and UConn's departments of Statistics and Computer Science focusing on IoT anomaly detection methods
-    * Coordinate and deliver data science education at HSB (time series short courses)
-    * Represent HSB and Munich Re Group by presenting at academic and internal analytics conferences
+    * Led junior data science talent on technical projects and manage interns
+    * Developed core product pricing models
+    * Performed IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
+    * Coordinated and delivered data science education at HSB.
  * __Engineering Statistician, Pratt & Whitney (UTC)__, April 2016 - February 2018
      * Performed engineering analysis with statistical/probabilistic models and provided predictive modeling and optimization support to P&W Aftermarket and Finance departments
  * __Adjunct Professor of Biostatistics, University of Connecticut__, January 2017 - May 2017
@@ -52,6 +55,7 @@ __Defense Contracting__
      * Awards: Google Student Poster Award (In honor of the best posters presented in the fields of Statistics and Probability at the 29th New England Statistical Symposium)
  * __BA Mathematics/Statistics, University of Connecticut__, 2014
  * __BA Political Science, University of Connecticut__, 2007
+    * Study abroad in Chiapas, Mexico, 2006
      
 # Volunteering & Outreach
 
@@ -59,15 +63,17 @@ __Defense Contracting__
      * Vice President in charge of the NESS Education Committee
      * Reorganized the committee into four subcommittees focusing on short course development, youth outreach, scholarship funds and ethics in data science education
      * Partnered with the NextGen Committee to establish NESS' new consulting service
+     * Co-led the effort to design and deliver the [The New England Statistical Society Scholarships for Underrepresented Minorities ](https://nextgenscholarship.nestat.org/) in 2021
+     * Serve on the 2022 New England Statistics Symposium 2022 Program Committee
  * __Council Member, New England Statistical Society (NESS)__, May 2017-June 2020
      * Served on the education committee coordinating the society’s educational activities and outreach
 
 # Technology
 
- * __Programming Languages__
-    * R, Stan, Python, SQL, Scala
+ * __Programming Languages \& Modeling Frameworks__
+    * R, Stan, Python, SQL, PyTorch
  * __Tech__
-    * Linux, Git, \LaTeX, Markdown, Microsoft Azure Cloud Services
+    * Linux, Git, \LaTeX, Markdown, Microsoft Azure Cloud Services, Databricks
 
 # Publications
 
@@ -78,4 +84,4 @@ __Defense Contracting__
 # Languages
 
   * English
-  * Spanish (professional working proficiency)
+  * Spanish (conversational)
