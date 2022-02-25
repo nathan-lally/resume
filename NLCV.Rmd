@@ -27,10 +27,10 @@ __Data Science & Statistics__
     * Established an ongoing research agreement between HSB and The University of Connecticut's departments of Statistics and Computer Science focusing on IoT analytics
         * This team deployed HSB's first large scale machine learning system for IoT in production; measuring customer responses to alerting systems using causal ML
  * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - November 2020
-    * Led junior data science talent on technical projects and manage interns
+    * Led junior data science talent on technical projects and managed interns
     * Developed core product pricing models
     * Performed IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
-    * Coordinated and delivered data science education at HSB.
+    * Coordinated and delivered data science education at HSB
  * __Engineering Statistician, Pratt & Whitney (UTC)__, April 2016 - February 2018
      * Performed engineering analysis with statistical/probabilistic models and provided predictive modeling and optimization support to P&W Aftermarket and Finance departments
  * __Adjunct Professor of Biostatistics, University of Connecticut__, January 2017 - May 2017
@@ -65,6 +65,7 @@ __Defense Contracting__
      * Partnered with the NextGen Committee to establish NESS' new consulting service
      * Co-led the effort to design and deliver the [The New England Statistical Society Scholarships for Underrepresented Minorities ](https://nextgenscholarship.nestat.org/) in 2021
      * Serve on the 2022 New England Statistics Symposium 2022 Program Committee
+        * Organizing sessions on ethics for data scientists and data science applications in insuretech
  * __Council Member, New England Statistical Society (NESS)__, May 2017-June 2020
      * Served on the education committee coordinating the society’s educational activities and outreach
 
@@ -76,10 +77,9 @@ __Defense Contracting__
     * Linux, Git, \LaTeX, Markdown, Microsoft Azure Cloud Services, Databricks
 
 # Publications
-
   * __[Modern Methods for Insurance IBNR Reserve Estimation](https://blogisbis.wordpress.com/2019/06/26/modern-methods-for-insurance-ibnr-reserve-estimation/)__, International Society for Business and Industrial Statistics (ISBIS) Blog Corner, 2019
   * __[Estimating Loss Reserves Using Hierarchical Bayesian Gaussian Process Regression with Input Warping](https://www.sciencedirect.com/science/article/pii/S0167668717304523)__, Insurance: Mathematics and Economics, 2018 ([link to pre-print version](https://hartman.byu.edu/files/LallyHartman_GPReserving.pdf))
-  * __[Predictive Modeling in Long-Term Care Insurance](https://www.tandfonline.com/eprint/7W2dZajRvYGmTIk4t5bT/full)__, North American Actuarial Journal, 2016 (Undergraduate thesis)
+  * __[Predictive Modeling in Long-Term Care Insurance](https://www.tandfonline.com/eprint/7W2dZajRvYGmTIk4t5bT/full)__, North American Actuarial Journal, 2016 (undergraduate thesis)
   
 # Languages
 
