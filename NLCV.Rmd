@@ -5,6 +5,7 @@ address: "281 Gilead Rd, Andover, CT 06250"
 phone: (860)287-3415
 email: "nathan.lally@hey.com"
 github: nathan-lally
+linkedin: www.linkedin.com/in/nathan-lally-050764234
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 ---
@@ -24,9 +25,8 @@ __Data Science & Statistics__
     * Lead a team of data scientists on projects ranging from IoT sensor analytics, claims analytics, financial forecasting, pricing and more
     * Work with business partners in various organizations to develop and deliver client-facing analytics products and services
     * Leading efforts to modernize HSB's data science technology stack, MLOps practices and model deployment
-    * Established an ongoing research agreement between HSB and The University of Connecticut's departments of Statistics and Computer Science focusing on IoT analytics
-        * This team deployed HSB's first large scale machine learning system for IoT in production; measuring customer responses to alerting systems using causal ML
- * __Sr. Machine Learning Modeler, HSB (Munich Re Group)__, February 2018 - November 2020
+    * Established an ongoing research agreement between HSB and The University of Connecticut’s departments of Statistics and Computer Science focusing on IoT analytics; deploying HSB’s first large scale machine learning system for IoT in production which measures customer responses to alerting systems using causal ML
+ * __Senior Data Scientist, HSB (Munich Re Group)__, February 2018 - November 2020
     * Led junior data science talent on technical projects and managed interns
     * Developed core product pricing models
     * Performed IoT sensor data analysis and related insurance product pricing/development, including developing the pricing strategy for HSB's first monetized sensor product (freeze loss warranty)
@@ -38,7 +38,7 @@ __Data Science & Statistics__
  * __Associate Data Scientist, The Hartford Insurance Group__, May 2015 - March 2016
      * Led efforts to build customer retention, issue rate, and customer lifetime value models
  * __Graduate Assistant, University of Connecticut__, August 2014 - May 2015
-     * Fully funded GA researching statistical/machine learning methods to predict 
+     * Fully funded GA researching statistical/machine learning methods to predict damages to electrical utility infrastructure
  * __Actuarial & Data Science Internships, The Hartford Insurance Group__, May 2014 - August 2014, December 2014 - January 2015
      * Completed two internships in both actuarial (risk and profitability) and data science (personal lines auto) positions
      
