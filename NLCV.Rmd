@@ -77,6 +77,7 @@ __Defense Contracting__
     * Linux, Git, \LaTeX, Markdown, Microsoft Azure Cloud Services, Databricks
 
 # Publications
+  * __[A Custom Unsupervised Approach for Pipe-Freeze Online Anomaly Detection](https://ieeexplore.ieee.org/document/9595720)__,  2021 IEEE 7th World Forum on Internet of Things, 2021
   * __[Modern Methods for Insurance IBNR Reserve Estimation](https://blogisbis.wordpress.com/2019/06/26/modern-methods-for-insurance-ibnr-reserve-estimation/)__, International Society for Business and Industrial Statistics (ISBIS) Blog Corner, 2019
   * __[Estimating Loss Reserves Using Hierarchical Bayesian Gaussian Process Regression with Input Warping](https://www.sciencedirect.com/science/article/pii/S0167668717304523)__, Insurance: Mathematics and Economics, 2018 ([link to pre-print version](https://hartman.byu.edu/files/LallyHartman_GPReserving.pdf))
   * __[Predictive Modeling in Long-Term Care Insurance](https://www.tandfonline.com/eprint/7W2dZajRvYGmTIk4t5bT/full)__, North American Actuarial Journal, 2016 (undergraduate thesis)
