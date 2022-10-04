@@ -1,7 +1,7 @@
 ---
 name: Nathan Lally
 position: "AVP: Data Science"
-address: "281 Gilead Rd, Andover, CT 06250"
+address: "281 Gilead Rd, Andover, CT 06232"
 phone: (860)287-3415
 email: "nathan.lally@hey.com"
 github: nathan-lally
