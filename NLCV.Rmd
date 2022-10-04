@@ -22,11 +22,18 @@ library(vitae)
 __Data Science & Statistics__
 
  * __AVP Data Science, HSB (Munich Re Group)__, November 2020 - Present
+<<<<<<< HEAD
     * Lead a team of data scientists on projects ranging from IoT sensor analytics to analysis of HSB's extensive inspection & engineering services data. We extract insights to support our current lineup of insurance products, but more importantly, to help develop new insurance and innovative risk management products for our clients.
     * Work with business partners in various organizations to develop and deliver client‑facing analytics products and services.
     * Leading efforts to modernize HSB’s data science technology stack, MLOps practices and model deployment
     * Established an ongoing research agreement between HSB and The University of Connecticut’s departments of Statistics and Computer Science focusing on IoT analytics; deploying HSB’s first large scale machine learning system for IoT in production which measures customer responses to alerting systems using causal ML.
     * Assist with the development of methods and models for HSB's insurance data science team.
+=======
+    * Lead a team of data scientists on projects ranging from IoT sensor analytics, claims analytics, financial forecasting, pricing and more
+    * Work with business partners in various organizations to develop and deliver client-facing analytics products and services
+    * Leading efforts to modernize HSB's data science technology stack, MLOps practices and model deployment
+    * Established an ongoing research agreement between HSB and The University of Connecticut’s departments of Statistics and Computer Science focusing on IoT analytics; deploying HSB’s first large scale machine learning system for IoT in production which measures customer responses to alerting systems using causal ML
+>>>>>>> c91df4558f08896491b04e639799fd50fb5d1f1e
  * __Senior Data Scientist, HSB (Munich Re Group)__, February 2018 - November 2020
     * Led junior data science talent on technical projects and managed interns
     * Developed core product pricing models
